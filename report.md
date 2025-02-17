@@ -1,1 +1,1 @@
-In this assignment, I created a GitHub repository, made branches and commits and deployed an html file to GitHub Pages.
+In this assignment, I created a GitHub repository, used the terminal to clone the repo to a file location on my PC, made a branch named "feature/student-deatils" which I used to create student detail files, commited the changes, merged this branch with "main" and deployed an html file to GitHub Pages.
