@@ -1,0 +1,1 @@
+In this assignment, I created a GitHub repository, made branches and commits and deployed an html file to GitHub Pages.
